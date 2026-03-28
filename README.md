@@ -1,4 +1,55 @@
-# react-undo-redo
+# React Undo Redo
+
+> A React application implementing undo/redo functionality.
+
+## About
+
+React Undo Redo is a learning project built to explore and implement undo and redo state management patterns in React. The project demonstrates how to manage history of state changes, allowing users to step forward and backward through actions.
+
+## Features
+
+- Undo functionality (step back in history)
+- Redo functionality (step forward in history)
+- React state management
+- Clean component architecture
+
+## Technologies Used
+
+| Technology | Usage |
+|------------|-------|
+| React | Frontend framework |
+| JavaScript | Application logic |
+| Create React App | Project bootstrap |
+
+## Getting Started
+
+1. Clone the repository:
+   git clone https://github.com/fuatsevinc/react-undo-redo.git
+
+2. Navigate into the project directory:
+   cd react-undo-redo
+
+3. Install dependencies:
+   npm install
+
+4. Start the development server:
+   npm start
+
+5. Open http://localhost:3000 in your browser.
+
+## Available Scripts
+
+- npm start – Run in development mode
+- npm test – Launch test runner
+- npm run build – Build for production
+
+## License
+
+All rights reserved © fuatsevinc
+
+---
+
+Developed by [fuatsevinc](https://github.com/fuatsevinc)# react-undo-redo
 
 
 # Getting Started with Create React App
